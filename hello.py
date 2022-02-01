@@ -6,6 +6,8 @@ from telethon import TelegramClient
 
 #import pdb
 #-------------------------------------------------------------------------------
+# git test
+#-------------------------------------------------------------------------------
 class MessagesSnapshot:
     
     def  __init__(self):
